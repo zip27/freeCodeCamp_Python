@@ -83,11 +83,3 @@ def add_time(start, duration, weekday = ""):
     new_time += " (" + str(numDays) + " days later)"
 
   return new_time
-
-  '''
-  Sources: https://www.freecodecamp.org/news/mathematics-converting-am-pm-to-24-hour-clock/
-
-  hours first approach
-  60, 43, 20
-
-  '''
